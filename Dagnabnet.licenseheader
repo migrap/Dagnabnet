@@ -1,0 +1,16 @@
+extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// %Project%
+// %FileName%
+// %CreationYear%, %CreationMonth%, %CreationDay%
+// %CurrentYear%, %CurrentMonth%, %CurrentDay%
+extensions: .aspx .ascx
+<%-- 
+Sample license text.
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+Sample license text.
+-->
